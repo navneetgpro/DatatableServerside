@@ -14,6 +14,6 @@
         "psr-0": {
             "DatatableServerside": "src/"
         }
-    }
+    },
     "require": {}
 }
