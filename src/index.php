@@ -1,5 +1,5 @@
 <?php
-namespace navneetg\DatatableServerside;
+namespace DatatableServerside;
 
 class Index{
     private $CI;
