@@ -1,0 +1,17 @@
+{
+    "name": "navneetg/hello-composer",
+    "description": "Datatable serverside API Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "navneet gupta",
+            "email": "navneetguptapro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"navneetg\\DatatableServerside\\": "src/"}
+    },
+    "require": {}
+}
