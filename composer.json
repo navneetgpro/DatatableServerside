@@ -1,5 +1,5 @@
 {
-    "name": "datatableserverside",
+    "name": "navneetg/datatableserverside",
     "description": "Datatable serverside API Library",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
             "email": "navneetguptapro@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "DatatableServerside": "src/"
