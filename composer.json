@@ -9,7 +9,6 @@
             "email": "navneetguptapro@gmail.com"
         }
     ],
-    "version": "1.0",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
